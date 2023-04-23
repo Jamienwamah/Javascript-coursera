@@ -1,1 +1,1 @@
-Combined Javascript projects taught by coursera
+Combined Javascript projects taught by coursera.
