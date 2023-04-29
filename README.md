@@ -1,1 +1,1 @@
-This is a Combined Javascript projects taught by coursera/meta staff.
+This is a Combined Javascript projects taught by coursera/meta staff .
