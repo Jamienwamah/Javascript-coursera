@@ -50,10 +50,11 @@ var result2 = test2 == 0
 console.log("Is", num1, "an even number?", result1)
 console.log("Is", num2, "an even number", result2)
 
+//concatenating of strings and numbers
 var now = "Now in "
 var three = 3
 var d = "D!"
-console.log(now + three + d)
+console.log(now + three + d) // Outputs Now in 3D!
 
 var counter = 0
 counter += 5 // increasing the value of the counter by 5 seconds
