@@ -56,6 +56,6 @@ var d = "D!"
 console.log(now + three + d)
 
 var counter = 0
-counter += 5
-counter += 3
-console.log(counter)
+counter += 5 // increasing the value of the counter by 5 seconds
+counter += 3 // incrementing the value of the counter by 3 seconds
+console.log(counter) // 8
