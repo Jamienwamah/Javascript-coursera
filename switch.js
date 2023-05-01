@@ -32,3 +32,25 @@ switch(light) {
         console.log('The light is not green, orange, or red');
         break;
  }
+
+
+ var day = "Sunday"
+
+switch(day) {
+    case "Monday":
+    console.log("We go to school")
+    break;
+    case "Tuesday":
+    console.log("We gp to school")
+    break;
+    case "Wednesday":
+    console.log("Could be a holiday")
+    break;
+    case "Friday":
+    console.log("oops! I missed a day")
+    break;
+    default:
+        console.log("Nothing Javascript")
+        break;
+
+}
