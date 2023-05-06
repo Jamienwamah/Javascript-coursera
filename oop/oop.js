@@ -22,3 +22,4 @@ var purchase1 = {
         console.log("The total price is: ", calculation);
     }
 }
+purchase1.totalPrice();
