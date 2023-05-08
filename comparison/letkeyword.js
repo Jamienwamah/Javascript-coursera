@@ -16,3 +16,5 @@
 // But we can re-assign the variable
 // user = "Mary";
 // console.log(user);
+
+
