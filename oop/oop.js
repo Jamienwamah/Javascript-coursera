@@ -18,8 +18,18 @@ var purchase1 = {
     shoes: 100,
     stateTax: 1.2,
     totalPrice: function() {
-        var calculation = purchase1.shoes * purchase1.stateTax;
+        var calculation = this.shoes * this.stateTax;
         console.log("The total price is: ", calculation);
     }
 }
 purchase1.totalPrice();
+
+var purchase2 = {
+    shoes: 50,
+    stateTax: 1.2,
+    totalPrice: function() {
+        var calculation = this.shoes * this.stateTax;
+        console.log("The total price is: ", calculation);
+    }
+}
+purchase2.totalPrice();
