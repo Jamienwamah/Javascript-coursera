@@ -17,5 +17,5 @@ console.log(veggies[1]);
 // adding a for loop and making the array iterable
 
 for (var i = 0; i < veggies.length; i++) {
-    console.log(veggies[1]);
+    console.log(veggies[2]);
 }
