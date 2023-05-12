@@ -1,4 +1,4 @@
-const car = {
+/* const car = {
     engine: true,
     steering: true,
     speed: "slow"
@@ -15,3 +15,5 @@ for (prop of Object.keys(sportsCar)) {
     console.log(prop + ": " + sportsCar[prop]);
 }
 console.log("Iterating over objects")
+*/
+
