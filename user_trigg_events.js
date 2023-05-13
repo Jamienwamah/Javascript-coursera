@@ -1,0 +1,1 @@
+<button type="button" class="btn btn-lg btn-primary" onclick="clickHandler()">Primary Button</button>
