@@ -1,0 +1,23 @@
+{
+  "name": "Javascript-coursera",
+  "version": "1.0.0",
+  "description": "JavaScript improvements In this reading, you will learn about the history of JavaScript and the importance of ECMA (European Computer Manufacturers Association) and ECMAScript.",
+  "main": "Randominteger.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/oishbdh/Javascript-coursera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oishbdh/Javascript-coursera/issues"
+  },
+  "homepage": "https://github.com/oishbdh/Javascript-coursera#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
